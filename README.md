@@ -16,6 +16,7 @@
 
 ## 🚀What I've Worked With
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--9OaJAiEH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Slack-4A154B%3Fstyle%3Dfor-the-badge%26logo%3Dslack%26logoColor%3Dwhite" loading="lazy" width="83" height="28">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ndcdzj74--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/GIT-E44C30%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" loading="lazy" width="68" height="28">
 </br>
 <div>
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--K5_crFQ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" loading="lazy" width="83" height="28">
