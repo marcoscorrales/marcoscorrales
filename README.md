@@ -28,6 +28,7 @@
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Dsy2kaod--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Saas-CC6699%3Fstyle%3Dfor-the-badge%26logo%3Dsass%26logoColor%3Dwhite" loading="lazy" width="73" height="28">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--kbKzVIJV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" loading="lazy" width="124" height="28">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--alRGNk02--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Bootstrap-563D7C%3Fstyle%3Dfor-the-badge%26logo%3Dbootstrap%26logoColor%3Dwhite" loading="lazy" width="121" height="28">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--X1_tTziN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" loading="lazy" width="121" height="28">
 </div>
 </br>
 <div>
