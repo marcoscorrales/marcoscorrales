@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **react, vue, JS, HTML, CSS.**
 
-- 📫 How to reach me **contact@marcoscorralesdev.com**
+- 📫 How to reach me **marcosdecoa@gmail.com**
 
 ## 🚀What I've Worked With
 <div>
